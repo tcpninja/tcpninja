@@ -51,7 +51,7 @@ Today I run **Cloud Native CISO** — helping small teams bake security into how
 ## 🤝 Let’s Connect
 - 🌐 [Cloud Native CISO](https://cloudnativeciso.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/karl-lewis)  
-- 🦋 [Bluesky:](https://bsky.app/profile/cloudnativeciso.com)  
+- 🦋 [Bluesky](https://bsky.app/profile/cloudnativeciso.com)  
 - 💻 [GitHub Projects](https://github.com/tcpninja)  
 
 ---
