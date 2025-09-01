@@ -1,15 +1,15 @@
 # 👋 Hola, I’m Karl
 
-**Principal Security Architect | AI & Cloud-Native Security Advocate | Startup Evangelist**  
+**Security Nomade | Cloud & AI Security Architect | Startup Ally**  
 Building practical, developer-aligned security for fast-moving teams.  
 
 ---
 
 ## 🚀 What I Do
-- 🔒 **Secure-by-Default Systems** — designing security that scales without slowing startups down.  
-- 🤖 **AI + Agentic Security** — exploring how LLMs and automation reshape security programs.  
+- 🔒 **Secure-by-Default Systems** — guardrails in Git, not gatekeepers in suits.  
+- 🤖 **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
 - ☁️ **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
-- 🎤 **Evangelism** — writing, speaking, and open-source contributions to democratize security.  
+- 🎤 **Global Security Culture** — Study 
 
 ---
 
@@ -20,21 +20,14 @@ Building practical, developer-aligned security for fast-moving teams.
 
 ---
 
-## ✍️ Writing & Speaking
-- 📝 [**Blog**](https://cloudnativeciso.com/blog) — practical playbooks & insights for builders.  
-- 🎙️ Guest on podcasts and panels around presales and cybersecurity.  
-- 📚 Upcoming: frameworks for **Minimum Viable Security (MVS)** and **Mergeable Trust**.  
-
----
-
 ## 🌍 Backstory
-Over a decade leading high-impact security and presales engagements across startups, Fortune 500s, and SaaS providers:  
-- Expanded a world-leading cybersecurity company into APAC.  
-- Closed record-breaking enterprise deals by turning complexity into trust.  
-- Led Zero Trust adoption before it was trendy.  
+I’ve led security in boardrooms, data centers, and startups just trying to get their first enterprise customer.  
 
-Then I took a deliberate break — four years, 25 countries, and a recalibration.  
-Now I bring that same curiosity and clarity to helping startups **move fast *and* stay safe**.  
+At Duo Security (Cisco), I helped launch the APJC region — guiding execs and engineers through Zero Trust adoption before it had a playbook.  
+
+Then I traded suits for a backpack — three years, 12 countries, and a crash course in how different cultures build trust. That perspective now shapes how I architect security for distributed teams and AI-native startups shipping at breakneck speed.  
+
+Today I run **Cloud Native CISO** — helping small teams bake security into how they build, from the very first commit.  
 
 ---
 
@@ -63,4 +56,4 @@ Now I bring that same curiosity and clarity to helping startups **move fast *and
 
 ---
 
-⭐️ *If you’re building something ambitious and security-conscious, let’s talk.*  
+⭐️ *If you’re building ambitious products and believe security should be leverage, not liability — let’s talk.*  
