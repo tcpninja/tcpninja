@@ -9,7 +9,7 @@ Building practical, developer-aligned security for fast-moving teams.
 - 🔒 **Secure-by-Default Systems** — guardrails in Git, not gatekeepers in suits.  
 - 🤖 **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
 - ☁️ **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
-- 🎤 **Global Security Culture** — Study 
+- 🎤 **Global Security Culture** — Studying patterns that transcend technology
 
 ---
 
