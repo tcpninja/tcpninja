@@ -1,6 +1,4 @@
-# 👋 Hola, I’m Karl
-
-**Security Nomad | Cloud & AI Security Architect | Startup Ally**  
+**Security Nomad | Field CISO | Startup Ally**  
 Building practical, developer-aligned security for fast-moving teams.  
 
 ---
